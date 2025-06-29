@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl
+secrets.txt
+terraform.tfstate.backup
+terraform-provider-azurerm_v4.1.0_x5.exe
